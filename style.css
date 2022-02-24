@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+canvas{
+    border: 3px solid orange;
+    fill: aqua;
+    border-radius: 20px;
+    margin-top: 15px;
+}
